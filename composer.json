@@ -1,0 +1,20 @@
+{
+    "name": "matthewrbowker/wikipedia-citation-storage",
+    "description": "A package to parse and act on Wikipedia citations",
+    "type": "library",
+    "license": "MIT License",
+    "autoload": {
+        "psr-4": {
+            "Matthewrbowker\\WikipediaCitationStorage\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Matthew Bowker",
+            "email": "matthewrbowker.bugs@gmail.com"
+        }
+    ],
+    "require": {
+        "php": "^8.2"
+    }
+}
